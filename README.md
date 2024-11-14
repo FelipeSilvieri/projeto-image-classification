@@ -12,9 +12,16 @@ Link do Vídeo:
 
 https://youtu.be/Fzoi89C6ONo
 
-![image](https://github.com/user-attachments/assets/19547508-5d18-4607-affd-5ec22e039ea0)
-
-![image](https://github.com/user-attachments/assets/38898d0d-3d06-41c1-99f5-8343dfbf1f25)
+<table>
+  <tr>
+    <td>
+      <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*HMP8TthpVRljInDPoNHS5A.jpeg" alt="CNN - Convolutional Neural Network" width="800">
+    </td>
+    <td>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/225px-Instagram_logo_2022.svg.png" alt="Instagram Logo" width="200">
+    </td>
+  </tr>
+</table>
 
 ---
 ## Tutorial de Funcionamento:
