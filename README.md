@@ -8,7 +8,7 @@ Felipe Matos Silvieri       RA: 20.00314-5
 Gabriel dos Santos Couto    RA: 20.00273-4
 Gabriel Prande Bernardello  RA: 20.01288-8
 
-Link do Vídeo
+Link do Vídeo:
 
 https://youtu.be/Fzoi89C6ONo
 
@@ -18,7 +18,7 @@ https://youtu.be/Fzoi89C6ONo
 
 ---
 ## Tutorial de Funcionamento:
-Basicamente pra ter acesso às funcionalidades do projeto, é só rodar o .ipynb que está neste repositório, via google colab, e os downloads dos dados, imagens, as instalações de bibliotecas e dependências ja serão realizados automaticamente
+Basicamente pra ter acesso às funcionalidades do projeto, é só rodar o .ipynb que está neste repositório, e também no link abaixo, via google colab, e os downloads dos dados, imagens, as instalações de bibliotecas e dependências ja serão realizados automaticamente
 
 ---
 # Escopo do projeto
@@ -51,3 +51,4 @@ A previsão de engajamento é uma área de crescente interesse em ciência de da
 ----
 ## Conclusão
 
+Embora o modelo tenha apresentado um desempenho insatisfatório, o projeto trouxe insights valiosos que evidenciam a importância de analisar cenários complexos, onde a ausência de um resultado positivo é, por si só, um aprendizado. Este caso se assemelha à previsão de ações, já que fatores externos e aleatórios desempenham um papel significativo na viralização de uma imagem na internet. Além disso, o nicho escolhido, focado em fotografia da natureza, apresentou uma uniformidade elevada na qualidade das imagens, um fator que provavelmente influencia menos a performance das publicações do que outros elementos contextuais. Para avanços futuros, sugerimos incluir o perfil do usuário como variável preditora (via one-hot encoding), expandir o volume de dados e explorar variáveis adicionais que possam captar melhor os fatores externos que afetam o engajamento.
