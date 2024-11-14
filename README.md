@@ -8,6 +8,10 @@ Felipe Matos Silvieri       RA: 20.00314-5
 Gabriel dos Santos Couto    RA: 20.00273-4
 Gabriel Prande Bernardello  RA: 20.01288-8
 
+![image](https://github.com/user-attachments/assets/19547508-5d18-4607-affd-5ec22e039ea0)
+
+![image](https://github.com/user-attachments/assets/38898d0d-3d06-41c1-99f5-8343dfbf1f25)
+
 ---
 ## Tutorial de Funcionamento:
 Basicamente pra ter acesso às funcionalidades do projeto, é só rodar o .ipynb que está neste repositório, via google colab, e os downloads dos dados, imagens, as instalações de bibliotecas e dependências ja serão realizados automaticamente
