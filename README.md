@@ -25,7 +25,9 @@ https://youtu.be/Fzoi89C6ONo
 
 ---
 ## Tutorial de Funcionamento:
+
 Basicamente pra ter acesso às funcionalidades do projeto, é só rodar o .ipynb que está neste repositório, e também no link abaixo, via google colab, e os downloads dos dados, imagens, as instalações de bibliotecas e dependências ja serão realizados automaticamente
+
 https://colab.research.google.com/drive/1Jle9XOWbfrNuMtWMINfwnNzyYffkNmkL?usp=sharing
 ---
 # Escopo do projeto
