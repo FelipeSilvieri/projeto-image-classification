@@ -1,0 +1,1 @@
+> Os dados utilizados para o desenvolvimento do modelo estão dispostos em um zip no google drive. Isso foi decidido por conta das limitações do github (boas práticas também). De qualquer forma, esse zip é baixado automaticamente no drive e é utilizado.
