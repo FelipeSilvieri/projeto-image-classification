@@ -8,6 +8,10 @@ Felipe Matos Silvieri       RA: 20.00314-5
 Gabriel dos Santos Couto    RA: 20.00273-4
 Gabriel Prande Bernardello  RA: 20.01288-8
 
+Link do Vídeo
+
+https://youtu.be/Fzoi89C6ONo
+
 ![image](https://github.com/user-attachments/assets/19547508-5d18-4607-affd-5ec22e039ea0)
 
 ![image](https://github.com/user-attachments/assets/38898d0d-3d06-41c1-99f5-8343dfbf1f25)
@@ -43,3 +47,7 @@ A metodologia deste projeto envolve várias etapas:
 ## Justificativa
 
 A previsão de engajamento é uma área de crescente interesse em ciência de dados aplicada ao marketing digital. Esse projeto visa contribuir para esse campo, desenvolvendo uma ferramenta que permita aos criadores e analistas de conteúdo entenderem melhor os fatores visuais que impactam o engajamento das postagens.
+
+----
+## Conclusão
+
